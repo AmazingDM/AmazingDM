@@ -1,3 +1,8 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@AmazingDM?theme=rule34" alt="Moe Counter" title="萌萌计数器"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@harbin?v=1" align="right">
+</p>
+
 ### Hi there 👋
 
 #### A NooB. Learning 
