@@ -1,8 +1,6 @@
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@AmazingDM?theme=rule34" alt="Moe Counter" title="萌萌计数器"></a>
-</p>
-
 ### Hi there 👋
+
+<img src="https://i.loli.net/2021/06/20/IJt9xG2SyfMBHdK.gif">
 
 #### A NooB. Learning 
 
@@ -36,3 +34,9 @@ SSTap 游戏路由分流规则 [SSTap-Rule](https://github.com/FQrabbit/SSTap-Ru
 ### :zap: Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AmazingDM&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@AmazingDM?theme=rule34" alt="Moe Counter" title="萌萌计数器"></a>
+</p>
+
+
