@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.loli.net/2021/06/20/IJt9xG2SyfMBHdK.gif">
+![NekoDA](https://user-images.githubusercontent.com/10679055/128811821-2c8b1822-602b-46d9-884b-20c9d65f649d.gif)
 
 #### A NooB. Learning 
 
